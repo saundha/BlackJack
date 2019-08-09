@@ -7,10 +7,10 @@ package blackjack;
 import java.util.*;
 /**
  *
- * @author Harpreet Saund
- * @author Ashish Sharma
- * @author Anjali Ahuja
- * @author Simar Sheridan
+ * @author and @Modified Harpreet Saund
+ * @author and @Modified by Ashish Sharma
+ * @author and @Modified Anjali Ahuja
+ * @author  and @Modified Simar Sheridan
  */
 public class BlackJack {
     
